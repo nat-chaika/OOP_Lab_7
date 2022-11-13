@@ -2,7 +2,7 @@ package ua.edu.ucu.apps.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import ua.edu.ucu.apps.demo.flower_store.Flower;
+//import ua.edu.ucu.apps.demo.flower_store.Flower;
 
 import java.util.List;
 
