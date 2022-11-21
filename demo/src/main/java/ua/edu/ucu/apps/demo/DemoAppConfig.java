@@ -8,7 +8,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class DemoAppConfig {
     @Bean
-    public String getData(){
-        return "hello";
+    public String getData() {
+        return "hello world";
     }
 }
+
